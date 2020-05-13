@@ -1,0 +1,1 @@
+update "user" set refresh_token='ddd' where user_name='manager'
